@@ -93,7 +93,6 @@ Android · Spring Boot · React · Mysql ·AWS
 | [Demo-Hilt-Mvvm-Compose](https://github.com/dantariun/Demo-Hlit-Mvvm-Compose) | ML Kit + Hilt + MVVM + Compose 데모 | Kotlin, Jetpack Compose |
 | [offline_naviapp](https://github.com/dantariun/offline_naviapp) | 오프라인 내비게이션 앱 | Kotlin |
 | [tiktok_clone](https://github.com/dantariun/tiktok_clone) | TikTok UI 클론 | Flutter, Dart |
-| [flutter_pokedex](https://github.com/dantariun/flutter_pokedex) | Flutter 포켓몬 도감 | Flutter, Dart |
 
 ---
 
