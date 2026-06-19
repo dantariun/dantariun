@@ -5,7 +5,7 @@
 <div align="center">
 
 **Tech Lead & Full-Cycle Developer**  
-Android · Spring Boot · React · AWS
+Android · Spring Boot · React · Mysql ·AWS
 
 </div>
 
@@ -16,6 +16,7 @@ Android · Spring Boot · React · AWS
 - 📱 Android(Kotlin/Compose) 앱 개발 및 멀티모듈 아키텍처 설계
 - 🖥️ Spring Boot 3 기반 백엔드 API 설계 및 구현
 - ⚛️ React 18 + TypeScript 기반 관리자 프론트엔드 개발
+- 🗄️ MySQL 8.4 스키마 그린필드 재설계 — 52개 테이블 · Flyway 마이그레이션 · 파티셔닝
 - ☁️ AWS 인프라 설계 및 운영 (EC2 · RDS · S3)
 - 🔭 현재 **ShowMe(SNS 리뷰 앱)** 전면 리팩토링, **위핑(커머스)** 운영 중
 - 👨‍💻 개발팀 리드로 아키텍처 설계 · 코드 리뷰 · 팀 온보딩 담당
@@ -85,8 +86,9 @@ Android · Spring Boot · React · AWS
 
 | Project | Description | Stack |
 |---|---|---|
-| ShowMe (비공개) | SNS 리뷰 앱 전면 리팩토링 — 백엔드 · Android · 관리자 뷰 | Spring Boot 3, Kotlin/Compose, React 18 |
 | 위핑 (비공개) | 쇼핑몰 커머스 플랫폼 운영 · 기능 개발 | PHP 7, CodeIgniter 3, MySQL |
+| ShowMe (비공개) | SNS 리뷰 앱 전면 리팩토링 — 백엔드 · Android · 관리자 뷰 | Spring Boot 3, Kotlin/Compose, React 18 |
+| [showme-db-redesign](https://github.com/dantariun/showme-db-redesign) | 레거시 DB 그린필드 재설계 — 52테이블 · 13도메인 · 스코어 분리 · 폴리모픽 첨부파일 · 파티셔닝 | MySQL 8.4, Flyway, Docker|
 | [morphview](https://github.com/dantariun/morphview) | Custom Android View 라이브러리 | Kotlin |
 | [Demo-Hilt-Mvvm-Compose](https://github.com/dantariun/Demo-Hlit-Mvvm-Compose) | ML Kit + Hilt + MVVM + Compose 데모 | Kotlin, Jetpack Compose |
 | [offline_naviapp](https://github.com/dantariun/offline_naviapp) | 오프라인 내비게이션 앱 | Kotlin |
