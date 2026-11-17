@@ -88,10 +88,10 @@ Android · Spring Boot · React · Mysql ·AWS
 |---|---|---|
 | 위핑 (비공개) | 쇼핑몰 커머스 플랫폼 운영 · 기능 개발 | PHP 7, CodeIgniter 3, MySQL |
 | ShowMe (비공개) | SNS 리뷰 앱 전면 리팩토링 — 백엔드 · Android · 관리자 뷰 | Spring Boot 3, Kotlin/Compose, React 18 |
-| [showme-db-redesign](https://github.com/dantariun/showme-db-redesign) | 레거시 DB 그린필드 재설계 — 52테이블 · 13도메인 · 스코어 분리 · 폴리모픽 첨부파일 · 파티셔닝 | MySQL 8.4, Flyway, Docker|
 | [sns-backend](https://github.com/dantariun/sns-backend) | SNS 플랫폼 백엔드 — 관리자·사용자 API 멀티모듈, JWT 인증, Phase 단위 고도화 (AI 에이전트 기반 개발) | Spring Boot 3, Java 21, JPA/QueryDSL, MySQL 8.4 |
 | [sns-admin-dashboard](https://github.com/dantariun/sns-admin-dashboard) | SNS 관리자 대시보드 — 회원·피드·신고·공지·FAQ CRUD, MSW 목업 (AI 에이전트 기반 개발) | React 19, TypeScript, TanStack Router/Query, Zustand, Tailwind CSS |
 | [loop-sns-showcase](https://github.com/dantariun/loop-sns-showcase) | SNS 사용자 모바일 앱 — 위 두 프로젝트와 같은 도메인. 피드·글쓰기·프로필·알림·채팅, 교체 가능한 더미 데이터 계층 (AI 에이전트 기반 개발) | React Native, Expo SDK 57, TypeScript, TanStack Query, Zustand, NativeWind |
+| [showme-db-redesign](https://github.com/dantariun/showme-db-redesign) | 레거시 DB 그린필드 재설계 — 52테이블 · 13도메인 · 스코어 분리 · 폴리모픽 첨부파일 · 파티셔닝 | MySQL 8.4, Flyway, Docker|
 | [morphview](https://github.com/dantariun/morphview) | Custom Android View 라이브러리 | Kotlin |
 | [Demo-Hilt-Mvvm-Compose](https://github.com/dantariun/Demo-Hlit-Mvvm-Compose) | ML Kit + Hilt + MVVM + Compose 데모 | Kotlin, Jetpack Compose |
 | [offline_naviapp](https://github.com/dantariun/offline_naviapp) | 오프라인 내비게이션 앱 | Kotlin |
