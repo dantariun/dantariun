@@ -90,6 +90,7 @@ Android · Spring Boot · React · Mysql ·AWS
 | ShowMe (비공개) | SNS 리뷰 앱 전면 리팩토링 — 백엔드 · Android · 관리자 뷰 | Spring Boot 3, Kotlin/Compose, React 18 |
 | [showme-db-redesign](https://github.com/dantariun/showme-db-redesign) | 레거시 DB 그린필드 재설계 — 52테이블 · 13도메인 · 스코어 분리 · 폴리모픽 첨부파일 · 파티셔닝 | MySQL 8.4, Flyway, Docker|
 | [sns-backend](https://github.com/dantariun/sns-backend) | SNS 플랫폼 백엔드 — 관리자·사용자 API 멀티모듈, JWT 인증, Phase 단위 고도화 (AI 에이전트 기반 개발) | Spring Boot 3, Java 21, JPA/QueryDSL, MySQL 8.4 |
+| [sns-admin-dashboard](https://github.com/dantariun/sns-admin-dashboard) | SNS 관리자 대시보드 — 회원·피드·신고·공지·FAQ CRUD, MSW 목업 (AI 에이전트 기반 개발) | React 19, TypeScript, TanStack Router/Query, Zustand, Tailwind CSS |
 | [morphview](https://github.com/dantariun/morphview) | Custom Android View 라이브러리 | Kotlin |
 | [Demo-Hilt-Mvvm-Compose](https://github.com/dantariun/Demo-Hlit-Mvvm-Compose) | ML Kit + Hilt + MVVM + Compose 데모 | Kotlin, Jetpack Compose |
 | [offline_naviapp](https://github.com/dantariun/offline_naviapp) | 오프라인 내비게이션 앱 | Kotlin |
